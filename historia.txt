@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+=======
+
+
+Historia de Andrés Calderón
+
+Andrés desde la cuenta anenca02@gmail.com
+
+<<<<<<< HEAD
+Retomando curso de Git el 29 04 2023.
+=======
+
+Ahora salvando este archivo desde Ubuntu.
+
+Desde anenca02 como colaborador de GitHub.
+>>>>>>> b6f86e6b7618715454158c98ddb891523c582d95
+
+Mañana nos enfocaremmos en su vida laboral.
+>>>>>>> footer
