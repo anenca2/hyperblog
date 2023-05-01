@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 
 
 Historia de Andrés Calderón
@@ -14,3 +16,4 @@ Desde anenca02 como colaborador de GitHub.
 >>>>>>> b6f86e6b7618715454158c98ddb891523c582d95
 
 Mañana nos enfocaremmos en su vida laboral.
+>>>>>>> footer
