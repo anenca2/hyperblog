@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-=======
 
 
-Historia de Andrés Calderón
 
-Andrés desde la cuenta anenca02@gmail.com
 
-<<<<<<< HEAD
-Retomando curso de Git el 29 04 2023.
-=======
+Esta es la historia de Andrés Calderón
 
-Ahora salvando este archivo desde Ubuntu.
+Andrés Calderón tiene 50 años y nació en Colombia
 
-Desde anenca02 como colaborador de GitHub.
->>>>>>> b6f86e6b7618715454158c98ddb891523c582d95
+Anita Platzi tiene 41 años y nació en Internet
 
-Mañana nos enfocaremmos en su vida laboral.
->>>>>>> footer
+Mañana nos enfocaremos en su vida laboral
